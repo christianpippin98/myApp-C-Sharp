@@ -1,0 +1,13 @@
+C:\Users\ianpi\projects\ctp\workspace\c#\consoleApp\bin\Debug\netcoreapp3.1\consoleApp.exe
+C:\Users\ianpi\projects\ctp\workspace\c#\consoleApp\bin\Debug\netcoreapp3.1\consoleApp.deps.json
+C:\Users\ianpi\projects\ctp\workspace\c#\consoleApp\bin\Debug\netcoreapp3.1\consoleApp.runtimeconfig.json
+C:\Users\ianpi\projects\ctp\workspace\c#\consoleApp\bin\Debug\netcoreapp3.1\consoleApp.runtimeconfig.dev.json
+C:\Users\ianpi\projects\ctp\workspace\c#\consoleApp\bin\Debug\netcoreapp3.1\consoleApp.dll
+C:\Users\ianpi\projects\ctp\workspace\c#\consoleApp\bin\Debug\netcoreapp3.1\consoleApp.pdb
+C:\Users\ianpi\projects\ctp\workspace\c#\consoleApp\obj\Debug\netcoreapp3.1\consoleApp.csprojAssemblyReference.cache
+C:\Users\ianpi\projects\ctp\workspace\c#\consoleApp\obj\Debug\netcoreapp3.1\consoleApp.AssemblyInfoInputs.cache
+C:\Users\ianpi\projects\ctp\workspace\c#\consoleApp\obj\Debug\netcoreapp3.1\consoleApp.AssemblyInfo.cs
+C:\Users\ianpi\projects\ctp\workspace\c#\consoleApp\obj\Debug\netcoreapp3.1\consoleApp.csproj.CoreCompileInputs.cache
+C:\Users\ianpi\projects\ctp\workspace\c#\consoleApp\obj\Debug\netcoreapp3.1\consoleApp.dll
+C:\Users\ianpi\projects\ctp\workspace\c#\consoleApp\obj\Debug\netcoreapp3.1\consoleApp.pdb
+C:\Users\ianpi\projects\ctp\workspace\c#\consoleApp\obj\Debug\netcoreapp3.1\consoleApp.genruntimeconfig.cache
