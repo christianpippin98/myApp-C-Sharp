@@ -3,34 +3,17 @@
 namespace Intro {
     public class Program {
         public static void Main (string[] args) {
-            string secretNumber = ("6");
-            Console.Write ("Guess a number from 1-10 ");
-            string number = Console.ReadLine ();
+            string secretNumber = ("65");
+            for (int i = 1; i < 5; i++) {
+                Console.Write ("Guess a number from 1-100 ");
+                string number = Console.ReadLine ();
+                int guesses = (4 - i);
 
-            if (number == secretNumber) {
-                Console.Write ("You Guessed Correctly!");
-            } else {
-                Console.Write ("Sorry! That is not correct. Guess again! ");
-                string number2 = Console.ReadLine ();
-
-                if (number2 == secretNumber) {
+                if (number == secretNumber) {
                     Console.Write ("You Guessed Correctly!");
+                    break;
                 } else {
-                    Console.Write ("Nope, again! ");
-                    string number3 = Console.ReadLine ();
-
-                    if (number3 == secretNumber) {
-                        Console.Write ("You guessed correctly!");
-                    } else {
-                        Console.Write ("Sorry! Last guess! ");
-                        string number4 = Console.ReadLine ();
-
-                        if (number4 == secretNumber) {
-                            Console.Write ("You guessed correctly!");
-                        } else {
-                            Console.Write ("Nope, you lost your chance!");
-                        }
-                    }
+                    Console.Write ($"Sorry! That is not correct. You have {guesses} guess(es) remaining! ");
                 }
             }
         }
